@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Veryable Coding Challenge</string>
+    <string name="welcome_to_veryable_coding_challenge">Welcome To Veryable Coding Challenge</string>
+    <string name="accounts">ACCOUNTS</string>
+    <string name="details">Details</string>
+    <string name="cards">Cards</string>
+    <string name="bank_accounts">Bank Accounts</string>
+    <string name="please_check_internet">Please check your internet connection</string>
+    <string name="server_down">Server Down! Please try again later</string>
+    <string name="done">Done</string>
+    <string name="url">https://veryable-public-assets.s3.us-east-2.amazonaws.com/</string>
+</resources>
